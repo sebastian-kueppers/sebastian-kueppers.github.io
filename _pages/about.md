@@ -30,4 +30,4 @@ I'm a psychology PhD candidate and research associate at Hamburg University, spe
 
 Much of my work centers on intensive longitudinal behavioral data. I use nonlinear time-series analysis to describe its dynamics, Monte Carlo simulation to test how well models and methods perform, and formal modeling to connect theory and data. To keep this work transparent and scalable, I build reproducible, parallelized analysis pipelines in R.
 
-Beyond research, I bring full-stack app development experience (JavaScript, Node.js, React Native) and applied user research from industry. I'm currently a front-end developer on [Who Knows](https://whoknows.uni-muenster.de/), a quiz app from that lets you test how well you estimate strangers, and thereby gathers data for personality research.
+Beyond research, I bring full-stack app development experience (JavaScript, Node.js, React Native) and applied user research from industry. I'm currently a front-end developer on [Who Knows](https://whoknows.uni-muenster.de/), a quiz app that lets you test how well you can judge strangers' personalities while collecting data for personality research.
