@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Who Knows
+description: How good is your person knowledge?
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Be honest: do you think you're good at reading people? Most of us do. We form impressions of strangers within seconds: how trustworthy, likeable, or tidy they seem. In fact, being able to form judgements quickly is inherently hat helps us navigate social life, and it shapes whom we like, trust, and hire. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+But in everyday life, we almost never find out whether those impressions were right.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Who Knows is a free app that closes this feedback gap, and it doubles as a research project. You watch short videos of real people introducing themselves (myself included!), then guess how they answered questions about their personality, values, or habits, from how they would react in a specific situation to their favorite cocktail. Afterwards, you see right away how well your guesses matched what they said about themselves. 
+
+For more information, visit our [webpage](https://whoknows.uni-muenster.de/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
